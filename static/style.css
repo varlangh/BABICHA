@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.name {
+    text-align: center;
+    padding: 8px;
+    background-color: black;
+}
+
+.h1 {
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.first {
+    display: flex
+}
+
+.brat {
+    display: inline;
+    margin: 16px;
+    width: 250px;
+    height: 250px;
+}
+
+.tex {
+    width: 1400px;
+    height: 500px;
+    margin: 20px;
+}
+
+.tg {
+    width: 100px;
+    height: 100px;
+}
+
+.net {
+    margin: 10px;
+    padding: 0px;
+    display: flex;
+}
+
+.gh {
+    margin: 10px;
+    padding: 0px;
+    display: flex;
+}
+
+.git {
+    width: 100px;
+    height: 100px;
+}
+
+.line {
+    background-color: black;
+}
+
+.project {
+    background-color: black;
+    text-align: center;
+    padding: 8px;
+}
+
+.minecraft {
+    padding: 20px;
+}
+
+.mn {
+    display: flex;
+}
+
+.minecracy {
+    margin: 16px;
+    width: 250px;
+    height: 250px;
+}
+
+.xz {
+    text-align: left;
+}
+
+.tg_mn {
+    text-align: center;
+}
+
+.sv {
+    text-align: center;
+    margin: 20px;
+}
+
+.shub {
+    display: flex;
+}
+
+.sv_tex {
+    margin: 16px;
+    width: 250px;
+    height: 250px;
+}
+.ssa{
+    text-align: center;
+}
+.network{
+    text-align: left;
+    color: aliceblue;
+}
+.social{
+    background-color: black;
+    text-align: center;
+}
